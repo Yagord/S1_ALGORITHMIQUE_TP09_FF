@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/25 16:26:26.000.739,\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\pc260533\Embarcadero\Studio\Projets\Project2.dproj=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\pc260533\Embarcadero\Studio\Projets\TP08_EX03_05.dproj</Transaction>
+    <Transaction>2017/10/25 16:26:35.000.333,=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\pc260533\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2017/10/25 16:26:51.000.850,\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\pc260533\Embarcadero\Studio\Projets\Unit1.pas=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\pc260533\Embarcadero\Studio\Projets\Unit_EX03_05.pas</Transaction>
+    <Transaction>2017/10/25 16:27:10.000.795,\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\pc260533\Embarcadero\Studio\Projets\Unit_EX03_05.pas=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\pc260533\Embarcadero\Studio\Projets\Unit_TP08_EX03_05.pas</Transaction>
+    <Transaction>2017/10/25 16:32:15.000.907,\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\pc260533\Embarcadero\Studio\Projets\TP08_EX03_05.dproj=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\pc260533\Embarcadero\Studio\Projets\TP08_EX03_05.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
